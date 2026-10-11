@@ -1,0 +1,12 @@
+{
+  "name": "Test Beta",
+  "description": "Buzzy square tones, v1: low pitch. For testing only.",
+  "localizations": {
+    "zh-Hans": {
+      "name": "测试 Beta",
+      "description": "带嗡声的方波音，v1：低音。仅供测试。"
+    }
+  },
+  "version": 1,
+  "license": "CC0-1.0"
+}

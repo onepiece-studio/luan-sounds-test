@@ -1,0 +1,12 @@
+{
+  "name": "Test Alpha",
+  "description": "Soft sine tones, v3: highest pitch. For testing only.",
+  "localizations": {
+    "zh-Hans": {
+      "name": "测试 Alpha",
+      "description": "柔和的正弦音，v3：高音。仅供测试。"
+    }
+  },
+  "version": 3,
+  "license": "CC0-1.0"
+}

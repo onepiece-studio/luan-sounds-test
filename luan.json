@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "app.fuyo.luan.test",
+  "name": "Luan Test Sounds",
+  "description": "Test-only sound source for Luan. Its contents change at any time; do not use it day to day.",
+  "localizations": {
+    "zh-Hans": {
+      "name": "Luan 测试音效",
+      "description": "Luan 的测试音效源，内容随时变动，请勿日常使用。"
+    }
+  },
+  "author": {
+    "name": "Luan",
+    "email": "luan@fuyo.app",
+    "url": "https://luan.fuyo.app"
+  },
+  "homepage": "https://github.com/onepiece-studio/luan-sounds-test",
+  "packs": [
+    {
+      "id": "test-alpha",
+      "name": "Test Alpha",
+      "description": "Soft sine tones, v3: highest pitch. For testing only.",
+      "localizations": {
+        "zh-Hans": {
+          "name": "测试 Alpha",
+          "description": "柔和的正弦音，v3：高音。仅供测试。"
+        }
+      },
+      "version": 3,
+      "license": "CC0-1.0",
+      "sounds": {
+        "session-start": {
+          "file": "assets/bd54aebc4b5afc457b0a11bea06dea41fa131851e708a3e7c6bec7110365e41a.wav",
+          "sha256": "bd54aebc4b5afc457b0a11bea06dea41fa131851e708a3e7c6bec7110365e41a",
+          "size": 30914
+        },
+        "task-acknowledge": {
+          "file": "assets/f4fbdaf319da11e27c866bf88a6d6f2786e19cb867c788db4c2990dd5c567e05.wav",
+          "sha256": "f4fbdaf319da11e27c866bf88a6d6f2786e19cb867c788db4c2990dd5c567e05",
+          "size": 7100
+        },
+        "task-complete": {
+          "file": "assets/aaf6a9ea4c00ee61f030e067fc01d0c9c95a42b837204647e4bc929889f86338.wav",
+          "sha256": "aaf6a9ea4c00ee61f030e067fc01d0c9c95a42b837204647e4bc929889f86338",
+          "size": 40616
+        },
+        "task-error": {
+          "file": "assets/bbe36d6c3e445bcbe4396b9f7a00d4ba3d001b3ea20132cf7fdb28f644e803b7.wav",
+          "sha256": "bbe36d6c3e445bcbe4396b9f7a00d4ba3d001b3ea20132cf7fdb28f644e803b7",
+          "size": 37970
+        },
+        "input-required": {
+          "file": "assets/3933db60732f54dab7149cc7f2d569bc80f6ca99a02b18d8f65f278351301f10.wav",
+          "sha256": "3933db60732f54dab7149cc7f2d569bc80f6ca99a02b18d8f65f278351301f10",
+          "size": 24740
+        },
+        "input-required-question": {
+          "file": "assets/af48eb64dfc560fc2e3f7478771d0ce5bdccffeb1985b5d07be319ac68b066e9.wav",
+          "sha256": "af48eb64dfc560fc2e3f7478771d0ce5bdccffeb1985b5d07be319ac68b066e9",
+          "size": 27386
+        },
+        "resource-limit": {
+          "file": "assets/01e84cb427c058374c22d1aaae036ab9b9526b822467a381a0923b690cfa80e2.wav",
+          "sha256": "01e84cb427c058374c22d1aaae036ab9b9526b822467a381a0923b690cfa80e2",
+          "size": 39734
+        },
+        "user-spam": {
+          "file": "assets/b0a3ea3df4f53751b76cb700d855142eba66a1230f2a9715d2b3b4032a219a1d.wav",
+          "sha256": "b0a3ea3df4f53751b76cb700d855142eba66a1230f2a9715d2b3b4032a219a1d",
+          "size": 28268
+        },
+        "idle-reminder": {
+          "file": "assets/3e7a2c06980735777eb2447c705b858b07f3d415a9d42b246de1159645450580.wav",
+          "sha256": "3e7a2c06980735777eb2447c705b858b07f3d415a9d42b246de1159645450580",
+          "size": 63548
+        }
+      }
+    },
+    {
+      "id": "test-beta",
+      "name": "Test Beta",
+      "description": "Buzzy square tones, v1: low pitch. For testing only.",
+      "localizations": {
+        "zh-Hans": {
+          "name": "测试 Beta",
+          "description": "带嗡声的方波音，v1：低音。仅供测试。"
+        }
+      },
+      "version": 1,
+      "license": "CC0-1.0",
+      "sounds": {
+        "session-start": {
+          "file": "assets/036430a474c4ebae21046c156340b215e91639685ae76a330f2d2051b0f1fa8f.wav",
+          "sha256": "036430a474c4ebae21046c156340b215e91639685ae76a330f2d2051b0f1fa8f",
+          "size": 30914
+        },
+        "task-acknowledge": {
+          "file": "assets/0a7d8dc9e7ee9bcd2e7ea9008a27ac1a3fb7d28ca734259fcbb3b48c44204fee.wav",
+          "sha256": "0a7d8dc9e7ee9bcd2e7ea9008a27ac1a3fb7d28ca734259fcbb3b48c44204fee",
+          "size": 7100
+        },
+        "task-complete": {
+          "file": "assets/f5f3668b6c46908d7c75eb471bc0352b2f563d4e33233c9b8bff00c6b268c511.wav",
+          "sha256": "f5f3668b6c46908d7c75eb471bc0352b2f563d4e33233c9b8bff00c6b268c511",
+          "size": 40616
+        },
+        "task-error": {
+          "file": "assets/f1d6e5bdb32bdc671cdbd853bba53196cd120e9c19648a4ea54fbb3be6845bf0.wav",
+          "sha256": "f1d6e5bdb32bdc671cdbd853bba53196cd120e9c19648a4ea54fbb3be6845bf0",
+          "size": 37970
+        },
+        "input-required": {
+          "file": "assets/5d911cb16f034fa8bf63a7ac6e577fd435ec610fdee9f3f2c59371b259a6eb2e.wav",
+          "sha256": "5d911cb16f034fa8bf63a7ac6e577fd435ec610fdee9f3f2c59371b259a6eb2e",
+          "size": 24740
+        },
+        "input-required-question": {
+          "file": "assets/a69a9fc95b7e0e6a6993839efe1c47f30b6191ad2844a891f5dd1f2df40c9c08.wav",
+          "sha256": "a69a9fc95b7e0e6a6993839efe1c47f30b6191ad2844a891f5dd1f2df40c9c08",
+          "size": 27386
+        },
+        "resource-limit": {
+          "file": "assets/1a3057d7ecd6efa684397ccced5c6782121665b83bba882ef0630b884e768136.wav",
+          "sha256": "1a3057d7ecd6efa684397ccced5c6782121665b83bba882ef0630b884e768136",
+          "size": 39734
+        },
+        "user-spam": {
+          "file": "assets/c43fa03f05978d935c827f12d3613ed6ca1e3b32a4995afa32a4724a83d8d902.wav",
+          "sha256": "c43fa03f05978d935c827f12d3613ed6ca1e3b32a4995afa32a4724a83d8d902",
+          "size": 28268
+        },
+        "idle-reminder": {
+          "file": "assets/534ef7c633c155b4b315aa6a512daf28f8e6de0bedad99224e50808175fe3c60.wav",
+          "sha256": "534ef7c633c155b4b315aa6a512daf28f8e6de0bedad99224e50808175fe3c60",
+          "size": 63548
+        }
+      }
+    }
+  ]
+}
